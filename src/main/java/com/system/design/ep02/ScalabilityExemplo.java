@@ -6,7 +6,7 @@ import java.util.*;
 
 /**
  * Ep.02 — Escalabilidade: Vertical vs Horizontal
- * Série: System Design que TODO dev Java precisa dominar
+ * Série: System Design que dev Java precisa dominar
  *
  * Demonstra na prática a diferença entre Scale Up e Scale Out:
  *
