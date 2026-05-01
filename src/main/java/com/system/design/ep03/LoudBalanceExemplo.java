@@ -1,4 +1,4 @@
-package systemdesign;
+package com.system.design.ep03;
 
 import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
